@@ -1,0 +1,31 @@
+.notFound__container {
+  text-align: center;
+  padding-top: 8rem;
+}
+
+.notFound__container .btn {
+  margin-top: 2rem;
+  padding: 0.625rem 2rem;
+  display: inline-block;
+}
+
+.notFound__container h2 {
+  font-size: 3rem;
+}
+
+/* Madia queries (medium screens) */
+@media screen and (max-width: 1024px) {
+  .notFound__container h2 {
+    font-size: 2.5rem;
+  }
+
+}
+
+/* media  queries  (small screen) */
+@media screen and (max-width: 600px) {
+  .notFound__container h2 {
+    font-size: 2rem;
+  }
+
+
+}
