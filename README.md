@@ -1,2 +1,2 @@
 # A Frontend-Gym-website
-### https://ibb.co/1mLjnQt
+### https://i.ibb.co/bKPD3mM/mobile.png
